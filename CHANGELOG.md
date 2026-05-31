@@ -4,7 +4,7 @@ Todos los cambios importantes de este proyecto serán documentados en este archi
 
 El formato está basado en los principios de *Keep a Changelog* y sigue el versionado semántico (*Semantic Versioning*).
 
-## [1.0.0] - 2026-05-22
+## [1.0.0] - 2026-05-30
 
 ### Añadido
 - Creación del programa básico en Python para sumar dos números.
