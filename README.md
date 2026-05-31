@@ -86,7 +86,7 @@ proyecto-suma/
 
 ## Autor
 
-**Kevin Alexander Cortez Cevallos**
+**Béker Elías Pinela F.**
 
 ## Licencia
 
